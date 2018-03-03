@@ -1,0 +1,24 @@
+Software requirements
+Functional requirements:
+1.	Library users Control
+1.1.	 Possibility to add users 
+1.2.	 Possibility to remove users 
+1.3.	 Possibility to modify user info 
+1.4.	 Possibility to watch exact user info 
+1.5.	 Possibility to watch all users 
+1.5.1.	Possibility to sort by name 
+1.5.2.	Possibility to sort by surname 
+1.5.3.	Possibility to sort by academic group	
+2.	Library documents control
+2.1.	 Possibility to add documents
+2.2.	 Possibility to remove documents
+2.3.	 Possibility to modify documents info
+2.4.	 Possibility to watch exact documents info
+2.5.	 Possibility to watch all documents
+2.5.1.	Possibility to sort by name
+2.5.2.	Possibility to sort by author
+3.	Document distribution control
+3.1.	 User can get only < 5 number of documents
+3.2.	 Possibility to watch what documents user took
+3.3.	 Possibility to watch the current owner of document
+3.4.	 Possibility to return document to library
